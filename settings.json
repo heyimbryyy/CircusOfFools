@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lokalngminecraft.play.hosting",
+    "ip": "circusoffools.play.hosting",
     "port": 25565,
     "version": "1.21.1"
   },
